@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Ishan 👋
 
-<!--
-**Ishan8840/Ishan8840** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a CS student at the University of Waterloo passionate about AI, robotics, and backend systems.
+I build projects that combine **machine learning**, **FastAPI**, and **React** to solve real-world problems.
 
-Here are some ideas to get you started:
+### 🚀 What I’m Working On
+- 🤖 Reinforcement learning agent for robotics
+- 🧠 An app for real time habit detection while studying
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+**Languages:** Python, C++, JavaScript  
+**Frameworks:** FastAPI, React, PyTorch, TensorFlow  
+**Tools:** Docker, Git, SQL, Linux
+
+### 🧩 Fun Stuff
+- ⚽ I love to play soccer
+- 🧗 Always learning something new — currently: robotics sim
