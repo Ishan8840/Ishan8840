@@ -1,7 +1,6 @@
 # Hi, I'm Ishan 👋
 
 I'm a CS student at the University of Waterloo passionate about AI, robotics, and backend systems.
-I build projects that combine **machine learning**, **FastAPI**, and **React** to solve real-world problems.
 
 ### 🚀 What I’m Working On
 - 🤖 Reinforcement learning agent for robotics
