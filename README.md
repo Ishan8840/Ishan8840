@@ -4,8 +4,8 @@ I'm a CS student at the University of Waterloo passionate about AI, robotics, an
 
 ### 🚀 What I’m Working On
 - 🤖 Reinforcement learning agent for robotics
-- 🧠 An app for real time habit detection while studying
+- 🧠 Teleoperation of Aloha arms
 
 ### 🧩 Fun Stuff
 - ⚽ I love to play soccer
-- 🧗 Always learning something new — currently: robotics sim
+- 🧗 Always learning something new — currently: imitation learning
