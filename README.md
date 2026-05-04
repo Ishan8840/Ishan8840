@@ -1,6 +1,6 @@
 # Hi, I'm Ishan 👋
 
-I'm a CS student at the University of Waterloo passionate about Robot Learning.
+I'm a CS student at the University of Waterloo working on Robot Learning.
 
 ### 🚀 What I’m Working On
 - 🤖 VLAs for humanoids
