@@ -8,4 +8,4 @@ I'm a student at the University of Waterloo working on Robot Learning.
 
 ### 🧩 Fun Stuff
 - ⚽ I love to play soccer
-- 🧗 Always learning something new — currently: WAMs
+- 🧗 Always learning something new — currently: Ego Data
