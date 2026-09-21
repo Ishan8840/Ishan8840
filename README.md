@@ -3,7 +3,7 @@
 I'm a student at the University of Waterloo working on Robot Learning.
 
 ### 🚀 What I’m Working On
-- 🤖 VLAs for humanoid manipulation
+- 🤖 VLAs
 - 🧠 World Models
 
 ### 🧩 Fun Stuff
