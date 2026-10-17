@@ -6,12 +6,4 @@ currently exploring
 - foundation models for manipulation
 - world models
 
-outside of research
-- soccer
-- movies
-
-find me on
-- [website](https://ishanshah.org)
-- [twitter](https://x.com/IshanShahh)
-- [linkedin](https://www.linkedin.com/in/ishahh/)
-- [email](mailto:i9shah@uwaterloo.ca)
+[website](https://ishanshah.org) [twitter](https://x.com/IshanShahh) [linkedin](https://www.linkedin.com/in/ishahh/) [email](mailto:i9shah@uwaterloo.ca)
