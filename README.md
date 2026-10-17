@@ -1,11 +1,17 @@
-# Hi, I'm Ishan 👋
+hi, i'm ishan.
 
-I'm a student at the University of Waterloo working on Robot Learning.
+computer science student at the university of waterloo, interested in robot learning.
 
-### 🚀 What I’m Working On
-- 🤖 VLAs
-- 🧠 World Models
+currently exploring
+- foundation models for manipulation
+- world models
 
-### 🧩 Fun Stuff
-- ⚽ I love to play soccer
-- 🧗 Always learning something new — currently: Ego Data
+outside of research
+- soccer
+- movies
+
+find me on
+- [website](https://ishanshah.org)
+- [twitter](https://x.com/IshanShahh)
+- [linkedin](https://www.linkedin.com/in/ishahh/)
+- [email](mailto:i9shah@uwaterloo.ca)
